@@ -2,13 +2,13 @@
 This is a example terraform template to build vpc and install NGINX. This template will create following resources.
    1. VPC
    2. Public Subnet - 1
-   3. Private Subnet - 2
-   4. Internet Gateway
-   5. NAT Gateway
-   6. Route Tables
-   7. ELB
-   8. Security Groups
-   9. Bastion Host/ Jump Server
+   3. Public Subnet - 2
+   4. Private Subnet - 1
+   5. Internet Gateway
+   6. NAT Gateway
+   7. Route Tables
+   8. ELB
+   9. Security Groups
    10. EC2 Instances
    11. Install NGINX
    12. Attach Instances to ELB
